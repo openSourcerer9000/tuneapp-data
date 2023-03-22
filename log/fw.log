@@ -35,3 +35,263 @@
 2023-03-22 12:11:10 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\someModel\Laura_2020"' has exited. Exit code: 0.
 2023-03-22 12:14:35 INFO Creating watch for H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models.
 2023-03-22 12:14:35 INFO Watch created for H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models.
+2023-03-22 12:22:34 INFO Creating watch for H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models.
+2023-03-22 12:22:34 INFO Watch created for H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models.
+2023-03-22 12:23:39 INFO Creating watch for H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models.
+2023-03-22 12:23:39 INFO Watch created for H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models.
+2023-03-22 12:23:57 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\amodel\Laura_2020\gauges_Laura_2020.csv' has the attribute 'Archive'.
+2023-03-22 12:23:57 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\amodel\Laura_2020\LCGauges.cpg' has the attribute 'Archive'.
+2023-03-22 12:23:57 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\amodel\Laura_2020\LCGauges.dbf' has the attribute 'Archive'.
+2023-03-22 12:23:57 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\amodel\Laura_2020\LCGauges.dbf' has the attribute 'Archive'.
+2023-03-22 12:23:57 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\amodel\Laura_2020\LCGauges.prj' has the attribute 'Archive'.
+2023-03-22 12:23:57 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\amodel\Laura_2020\LCGauges.shp' has the attribute 'Archive'.
+2023-03-22 12:23:57 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\amodel\Laura_2020\LCGauges.shx' has the attribute 'Archive'.
+2023-03-22 12:23:57 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\amodel\Laura_2020\LC_LowerCalcasieu.p08.hdf' has the attribute 'Archive'.
+2023-03-22 12:23:59 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\amodel\Laura_2020\LC_LowerCalcasieu.p08.hdf' has the attribute 'Archive'.
+2023-03-22 12:24:12 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\amodel\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:24:12 INFO Exclude: The match pattern 'Your site.url' is a match for file amodel\Laura_2020\Your site.url.
+2023-03-22 12:24:12 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\amodel\Laura_2020\gauges_Laura_2020.csv"' has exited. Exit code: 0.
+2023-03-22 12:24:28 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\amodel\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:24:28 INFO Exclude: The match pattern 'Your site.url' is a match for file amodel\Laura_2020\Your site.url.
+2023-03-22 12:24:28 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\amodel\Laura_2020\LCGauges.cpg"' has exited. Exit code: 0.
+2023-03-22 12:24:43 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\amodel\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:24:43 INFO Exclude: The match pattern 'Your site.url' is a match for file amodel\Laura_2020\Your site.url.
+2023-03-22 12:24:43 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\amodel\Laura_2020\LCGauges.dbf"' has exited. Exit code: 0.
+2023-03-22 12:24:58 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\amodel\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:24:58 INFO Exclude: The match pattern 'Your site.url' is a match for file amodel\Laura_2020\Your site.url.
+2023-03-22 12:24:59 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\amodel\Laura_2020\LCGauges.prj"' has exited. Exit code: 0.
+2023-03-22 12:25:14 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\amodel\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:25:14 INFO Exclude: The match pattern 'Your site.url' is a match for file amodel\Laura_2020\Your site.url.
+2023-03-22 12:25:14 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\amodel\Laura_2020\LCGauges.shp"' has exited. Exit code: 0.
+2023-03-22 12:25:29 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\amodel\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:25:29 INFO Exclude: The match pattern 'Your site.url' is a match for file amodel\Laura_2020\Your site.url.
+2023-03-22 12:25:30 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\amodel\Laura_2020\LCGauges.shx"' has exited. Exit code: 0.
+2023-03-22 12:25:45 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\amodel\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:25:45 INFO Exclude: The match pattern 'Your site.url' is a match for file amodel\Laura_2020\Your site.url.
+2023-03-22 12:25:45 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\amodel\Laura_2020\LC_LowerCalcasieu.p08.hdf"' has exited. Exit code: 0.
+2023-03-22 12:34:10 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\modl\Laura_2020\gauges_Laura_2020.csv' has the attribute 'Archive'.
+2023-03-22 12:34:10 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\modl\Laura_2020\LCGauges.cpg' has the attribute 'Archive'.
+2023-03-22 12:34:10 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\modl\Laura_2020\LCGauges.dbf' has the attribute 'Archive'.
+2023-03-22 12:34:10 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\modl\Laura_2020\LCGauges.prj' has the attribute 'Archive'.
+2023-03-22 12:34:10 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\modl\Laura_2020\LCGauges.shp' has the attribute 'Archive'.
+2023-03-22 12:34:10 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\modl\Laura_2020\LCGauges.shx' has the attribute 'Archive'.
+2023-03-22 12:34:10 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\modl\Laura_2020\LC_LowerCalcasieu.p08.hdf' has the attribute 'Archive'.
+2023-03-22 12:34:12 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\modl\Laura_2020\LC_LowerCalcasieu.p08.hdf' has the attribute 'Archive'.
+2023-03-22 12:34:22 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\modl\Laura_2020\gauges_Laura_2020.csv"' has exited. Exit code: 0.
+2023-03-22 12:34:34 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\modl\Laura_2020\LCGauges.cpg"' has exited. Exit code: 0.
+2023-03-22 12:34:45 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\modl\Laura_2020\LCGauges.dbf"' has exited. Exit code: 0.
+2023-03-22 12:34:57 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\modl\Laura_2020\LCGauges.prj"' has exited. Exit code: 0.
+2023-03-22 12:35:09 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\modl\Laura_2020\LCGauges.shp"' has exited. Exit code: 0.
+2023-03-22 12:35:21 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\modl\Laura_2020\LCGauges.shx"' has exited. Exit code: 0.
+2023-03-22 12:35:32 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\modl\Laura_2020\LC_LowerCalcasieu.p08.hdf"' has exited. Exit code: 0.
+2023-03-22 12:41:06 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model2\Laura_2020\gauges_Laura_2020.csv' has the attribute 'Archive'.
+2023-03-22 12:41:06 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model2\Laura_2020\LCGauges.cpg' has the attribute 'Archive'.
+2023-03-22 12:41:06 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model2\Laura_2020\LCGauges.dbf' has the attribute 'Archive'.
+2023-03-22 12:41:06 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model2\Laura_2020\LCGauges.prj' has the attribute 'Archive'.
+2023-03-22 12:41:06 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model2\Laura_2020\LCGauges.shp' has the attribute 'Archive'.
+2023-03-22 12:41:06 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model2\Laura_2020\LCGauges.shx' has the attribute 'Archive'.
+2023-03-22 12:41:06 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model2\Laura_2020\LC_LowerCalcasieu.p08.hdf' has the attribute 'Archive'.
+2023-03-22 12:41:08 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model2\Laura_2020\LC_LowerCalcasieu.p08.hdf' has the attribute 'Archive'.
+2023-03-22 12:41:08 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model2\Laura_2020\OOPS!.txt' has the attribute 'Archive'.
+2023-03-22 12:41:08 INFO Exclude: The match pattern 'OOPS!.txt' is a match for file model2\Laura_2020\OOPS!.txt.
+2023-03-22 12:41:56 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model2\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:41:56 INFO Exclude: The match pattern 'Your site.url' is a match for file model2\Laura_2020\Your site.url.
+2023-03-22 12:41:57 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model2\Laura_2020\gauges_Laura_2020.csv"' has exited. Exit code: 0.
+2023-03-22 12:42:08 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model2\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:42:08 INFO Exclude: The match pattern 'Your site.url' is a match for file model2\Laura_2020\Your site.url.
+2023-03-22 12:42:08 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model2\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:42:08 INFO Exclude: The match pattern 'Your site.url' is a match for file model2\Laura_2020\Your site.url.
+2023-03-22 12:42:08 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model2\Laura_2020\LCGauges.cpg"' has exited. Exit code: 0.
+2023-03-22 12:42:20 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model2\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:42:20 INFO Exclude: The match pattern 'Your site.url' is a match for file model2\Laura_2020\Your site.url.
+2023-03-22 12:42:20 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model2\Laura_2020\LCGauges.dbf"' has exited. Exit code: 0.
+2023-03-22 12:42:32 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model2\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:42:32 INFO Exclude: The match pattern 'Your site.url' is a match for file model2\Laura_2020\Your site.url.
+2023-03-22 12:42:32 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model2\Laura_2020\LCGauges.prj"' has exited. Exit code: 0.
+2023-03-22 12:42:44 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model2\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:42:44 INFO Exclude: The match pattern 'Your site.url' is a match for file model2\Laura_2020\Your site.url.
+2023-03-22 12:42:44 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model2\Laura_2020\LCGauges.shp"' has exited. Exit code: 0.
+2023-03-22 12:42:55 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model2\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:42:55 INFO Exclude: The match pattern 'Your site.url' is a match for file model2\Laura_2020\Your site.url.
+2023-03-22 12:42:56 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model2\Laura_2020\LCGauges.shx"' has exited. Exit code: 0.
+2023-03-22 12:43:07 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model2\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:43:07 INFO Exclude: The match pattern 'Your site.url' is a match for file model2\Laura_2020\Your site.url.
+2023-03-22 12:43:07 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model2\Laura_2020\LC_LowerCalcasieu.p08.hdf"' has exited. Exit code: 0.
+2023-03-22 12:44:09 INFO Creating watch for H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models.
+2023-03-22 12:44:09 INFO Watch created for H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models.
+2023-03-22 12:45:03 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\gauges_Laura_2020.csv' has the attribute 'Archive'.
+2023-03-22 12:45:03 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\LCGauges.cpg' has the attribute 'Archive'.
+2023-03-22 12:45:03 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\LCGauges.dbf' has the attribute 'Archive'.
+2023-03-22 12:45:03 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\LCGauges.prj' has the attribute 'Archive'.
+2023-03-22 12:45:03 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\LCGauges.shp' has the attribute 'Archive'.
+2023-03-22 12:45:03 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\LCGauges.shx' has the attribute 'Archive'.
+2023-03-22 12:45:03 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\LC_LowerCalcasieu.p08.hdf' has the attribute 'Archive'.
+2023-03-22 12:45:05 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\LC_LowerCalcasieu.p08.hdf' has the attribute 'Archive'.
+2023-03-22 12:45:05 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\OOPS!.txt' has the attribute 'Archive'.
+2023-03-22 12:45:05 INFO Exclude: The match pattern 'OOPS!.txt' is a match for file model3\Laura_2020\OOPS!.txt.
+2023-03-22 12:45:08 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\Success - your site is on the way!' has the attribute 'Archive'.
+2023-03-22 12:45:08 INFO Exclude: The match pattern 'Success - your site is on the way!' is a match for file model3\Laura_2020\Success - your site is on the way!.
+2023-03-22 12:46:03 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:46:03 INFO Exclude: The match pattern 'Your site.url' is a match for file model3\Laura_2020\Your site.url.
+2023-03-22 12:46:03 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\gauges_Laura_2020.csv"' has exited. Exit code: 0.
+2023-03-22 12:46:09 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\Success - your site is on the way!' has the attribute 'Archive'.
+2023-03-22 12:46:09 INFO Exclude: The match pattern 'Success - your site is on the way!' is a match for file model3\Laura_2020\Success - your site is on the way!.
+2023-03-22 12:46:15 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:46:15 INFO Exclude: The match pattern 'Your site.url' is a match for file model3\Laura_2020\Your site.url.
+2023-03-22 12:46:15 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:46:15 INFO Exclude: The match pattern 'Your site.url' is a match for file model3\Laura_2020\Your site.url.
+2023-03-22 12:46:15 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\LCGauges.cpg"' has exited. Exit code: 0.
+2023-03-22 12:46:21 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\Success - your site is on the way!' has the attribute 'Archive'.
+2023-03-22 12:46:21 INFO Exclude: The match pattern 'Success - your site is on the way!' is a match for file model3\Laura_2020\Success - your site is on the way!.
+2023-03-22 12:46:27 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:46:27 INFO Exclude: The match pattern 'Your site.url' is a match for file model3\Laura_2020\Your site.url.
+2023-03-22 12:46:27 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:46:27 INFO Exclude: The match pattern 'Your site.url' is a match for file model3\Laura_2020\Your site.url.
+2023-03-22 12:46:27 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\LCGauges.dbf"' has exited. Exit code: 0.
+2023-03-22 12:46:32 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\Success - your site is on the way!' has the attribute 'Archive'.
+2023-03-22 12:46:32 INFO Exclude: The match pattern 'Success - your site is on the way!' is a match for file model3\Laura_2020\Success - your site is on the way!.
+2023-03-22 12:46:39 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:46:39 INFO Exclude: The match pattern 'Your site.url' is a match for file model3\Laura_2020\Your site.url.
+2023-03-22 12:46:39 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:46:39 INFO Exclude: The match pattern 'Your site.url' is a match for file model3\Laura_2020\Your site.url.
+2023-03-22 12:46:39 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\LCGauges.prj"' has exited. Exit code: 0.
+2023-03-22 12:46:44 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\Success - your site is on the way!' has the attribute 'Archive'.
+2023-03-22 12:46:44 INFO Exclude: The match pattern 'Success - your site is on the way!' is a match for file model3\Laura_2020\Success - your site is on the way!.
+2023-03-22 12:46:50 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:46:50 INFO Exclude: The match pattern 'Your site.url' is a match for file model3\Laura_2020\Your site.url.
+2023-03-22 12:46:50 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:46:50 INFO Exclude: The match pattern 'Your site.url' is a match for file model3\Laura_2020\Your site.url.
+2023-03-22 12:46:50 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\gauges_Laura_2020.csv' has the attribute 'Archive'.
+2023-03-22 12:46:50 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\LCGauges.cpg' has the attribute 'Archive'.
+2023-03-22 12:46:50 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\LCGauges.dbf' has the attribute 'Archive'.
+2023-03-22 12:46:50 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\LCGauges.prj' has the attribute 'Archive'.
+2023-03-22 12:46:50 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\LCGauges.shp' has the attribute 'Archive'.
+2023-03-22 12:46:50 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\LCGauges.shx' has the attribute 'Archive'.
+2023-03-22 12:46:50 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\LC_LowerCalcasieu.p08.hdf' has the attribute 'Archive'.
+2023-03-22 12:46:50 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\LCGauges.shp"' has exited. Exit code: 0.
+2023-03-22 12:46:52 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\LC_LowerCalcasieu.p08.hdf' has the attribute 'Archive'.
+2023-03-22 12:46:52 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\OOPS!.txt' has the attribute 'Archive'.
+2023-03-22 12:46:52 INFO Exclude: The match pattern 'OOPS!.txt' is a match for file model4\Laura_2020\OOPS!.txt.
+2023-03-22 12:46:56 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\Success - your site is on the way!' has the attribute 'Archive'.
+2023-03-22 12:46:56 INFO Exclude: The match pattern 'Success - your site is on the way!' is a match for file model3\Laura_2020\Success - your site is on the way!.
+2023-03-22 12:47:02 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:47:02 INFO Exclude: The match pattern 'Your site.url' is a match for file model3\Laura_2020\Your site.url.
+2023-03-22 12:47:02 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:47:02 INFO Exclude: The match pattern 'Your site.url' is a match for file model3\Laura_2020\Your site.url.
+2023-03-22 12:47:02 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\LCGauges.shx"' has exited. Exit code: 0.
+2023-03-22 12:47:08 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\Success - your site is on the way!' has the attribute 'Archive'.
+2023-03-22 12:47:08 INFO Exclude: The match pattern 'Success - your site is on the way!' is a match for file model3\Laura_2020\Success - your site is on the way!.
+2023-03-22 12:47:14 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:47:14 INFO Exclude: The match pattern 'Your site.url' is a match for file model3\Laura_2020\Your site.url.
+2023-03-22 12:47:14 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:47:14 INFO Exclude: The match pattern 'Your site.url' is a match for file model3\Laura_2020\Your site.url.
+2023-03-22 12:47:14 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model3\Laura_2020\LC_LowerCalcasieu.p08.hdf"' has exited. Exit code: 0.
+2023-03-22 12:47:20 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\Success - your site is on the way!' has the attribute 'Archive'.
+2023-03-22 12:47:20 INFO Exclude: The match pattern 'Success - your site is on the way!' is a match for file model4\Laura_2020\Success - your site is on the way!.
+2023-03-22 12:48:16 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:48:16 INFO Exclude: The match pattern 'Your site.url' is a match for file model4\Laura_2020\Your site.url.
+2023-03-22 12:48:16 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\gauges_Laura_2020.csv"' has exited. Exit code: 0.
+2023-03-22 12:48:21 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\Success - your site is on the way!' has the attribute 'Archive'.
+2023-03-22 12:48:21 INFO Exclude: The match pattern 'Success - your site is on the way!' is a match for file model4\Laura_2020\Success - your site is on the way!.
+2023-03-22 12:48:28 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:48:28 INFO Exclude: The match pattern 'Your site.url' is a match for file model4\Laura_2020\Your site.url.
+2023-03-22 12:48:28 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\LCGauges.cpg"' has exited. Exit code: 0.
+2023-03-22 12:48:33 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\Success - your site is on the way!' has the attribute 'Archive'.
+2023-03-22 12:48:33 INFO Exclude: The match pattern 'Success - your site is on the way!' is a match for file model4\Laura_2020\Success - your site is on the way!.
+2023-03-22 12:48:39 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:48:39 INFO Exclude: The match pattern 'Your site.url' is a match for file model4\Laura_2020\Your site.url.
+2023-03-22 12:48:39 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:48:39 INFO Exclude: The match pattern 'Your site.url' is a match for file model4\Laura_2020\Your site.url.
+2023-03-22 12:48:40 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\LCGauges.dbf"' has exited. Exit code: 0.
+2023-03-22 12:48:45 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\Success - your site is on the way!' has the attribute 'Archive'.
+2023-03-22 12:48:45 INFO Exclude: The match pattern 'Success - your site is on the way!' is a match for file model4\Laura_2020\Success - your site is on the way!.
+2023-03-22 12:48:51 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:48:51 INFO Exclude: The match pattern 'Your site.url' is a match for file model4\Laura_2020\Your site.url.
+2023-03-22 12:48:51 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\LCGauges.prj"' has exited. Exit code: 0.
+2023-03-22 12:48:56 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\Success - your site is on the way!' has the attribute 'Archive'.
+2023-03-22 12:48:56 INFO Exclude: The match pattern 'Success - your site is on the way!' is a match for file model4\Laura_2020\Success - your site is on the way!.
+2023-03-22 12:49:03 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:49:03 INFO Exclude: The match pattern 'Your site.url' is a match for file model4\Laura_2020\Your site.url.
+2023-03-22 12:49:03 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\LCGauges.shp"' has exited. Exit code: 0.
+2023-03-22 12:49:08 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\Success - your site is on the way!' has the attribute 'Archive'.
+2023-03-22 12:49:08 INFO Exclude: The match pattern 'Success - your site is on the way!' is a match for file model4\Laura_2020\Success - your site is on the way!.
+2023-03-22 12:49:14 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:49:14 INFO Exclude: The match pattern 'Your site.url' is a match for file model4\Laura_2020\Your site.url.
+2023-03-22 12:49:14 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:49:14 INFO Exclude: The match pattern 'Your site.url' is a match for file model4\Laura_2020\Your site.url.
+2023-03-22 12:49:14 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\LCGauges.shx"' has exited. Exit code: 0.
+2023-03-22 12:49:20 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\Success - your site is on the way!' has the attribute 'Archive'.
+2023-03-22 12:49:20 INFO Exclude: The match pattern 'Success - your site is on the way!' is a match for file model4\Laura_2020\Success - your site is on the way!.
+2023-03-22 12:49:26 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 12:49:26 INFO Exclude: The match pattern 'Your site.url' is a match for file model4\Laura_2020\Your site.url.
+2023-03-22 12:49:26 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model4\Laura_2020\LC_LowerCalcasieu.p08.hdf"' has exited. Exit code: 0.
+2023-03-22 12:59:18 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\gauges_Laura_2020.csv' has the attribute 'Archive'.
+2023-03-22 12:59:18 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\LCGauges.cpg' has the attribute 'Archive'.
+2023-03-22 12:59:19 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\LCGauges.dbf' has the attribute 'Archive'.
+2023-03-22 12:59:19 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\LCGauges.prj' has the attribute 'Archive'.
+2023-03-22 12:59:19 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\LCGauges.shp' has the attribute 'Archive'.
+2023-03-22 12:59:19 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\LCGauges.shx' has the attribute 'Archive'.
+2023-03-22 12:59:19 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\LC_LowerCalcasieu.p08.hdf' has the attribute 'Archive'.
+2023-03-22 12:59:21 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\LC_LowerCalcasieu.p08.hdf' has the attribute 'Archive'.
+2023-03-22 12:59:24 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\Success - your site is on the way!' has the attribute 'Archive'.
+2023-03-22 12:59:24 INFO Exclude: The match pattern 'Success - your site is on the way!' is a match for file model5\Laura_2020\Success - your site is on the way!.
+2023-03-22 13:00:24 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 13:00:24 INFO Exclude: The match pattern 'Your site.url' is a match for file model5\Laura_2020\Your site.url.
+2023-03-22 13:00:24 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\gauges_Laura_2020.csv"' has exited. Exit code: 0.
+2023-03-22 13:00:30 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\Success - your site is on the way!' has the attribute 'Archive'.
+2023-03-22 13:00:30 INFO Exclude: The match pattern 'Success - your site is on the way!' is a match for file model5\Laura_2020\Success - your site is on the way!.
+2023-03-22 13:00:36 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 13:00:36 INFO Exclude: The match pattern 'Your site.url' is a match for file model5\Laura_2020\Your site.url.
+2023-03-22 13:00:36 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\LCGauges.cpg"' has exited. Exit code: 0.
+2023-03-22 13:00:43 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\Success - your site is on the way!' has the attribute 'Archive'.
+2023-03-22 13:00:43 INFO Exclude: The match pattern 'Success - your site is on the way!' is a match for file model5\Laura_2020\Success - your site is on the way!.
+2023-03-22 13:00:49 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 13:00:49 INFO Exclude: The match pattern 'Your site.url' is a match for file model5\Laura_2020\Your site.url.
+2023-03-22 13:00:49 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\LCGauges.dbf"' has exited. Exit code: 0.
+2023-03-22 13:00:55 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\Success - your site is on the way!' has the attribute 'Archive'.
+2023-03-22 13:00:55 INFO Exclude: The match pattern 'Success - your site is on the way!' is a match for file model5\Laura_2020\Success - your site is on the way!.
+2023-03-22 13:01:01 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\LCGauges.prj"' has exited. Exit code: 0.
+2023-03-22 13:01:07 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 13:01:07 INFO Exclude: The match pattern 'Your site.url' is a match for file model5\Laura_2020\Your site.url.
+2023-03-22 13:01:07 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\Success - your site is on the way!' has the attribute 'Archive'.
+2023-03-22 13:01:07 INFO Exclude: The match pattern 'Success - your site is on the way!' is a match for file model5\Laura_2020\Success - your site is on the way!.
+2023-03-22 13:01:13 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 13:01:13 INFO Exclude: The match pattern 'Your site.url' is a match for file model5\Laura_2020\Your site.url.
+2023-03-22 13:01:13 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\LCGauges.shp"' has exited. Exit code: 0.
+2023-03-22 13:01:20 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\Success - your site is on the way!' has the attribute 'Archive'.
+2023-03-22 13:01:20 INFO Exclude: The match pattern 'Success - your site is on the way!' is a match for file model5\Laura_2020\Success - your site is on the way!.
+2023-03-22 13:01:26 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 13:01:26 INFO Exclude: The match pattern 'Your site.url' is a match for file model5\Laura_2020\Your site.url.
+2023-03-22 13:01:26 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\LCGauges.shx"' has exited. Exit code: 0.
+2023-03-22 13:01:31 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\Success - your site is on the way!' has the attribute 'Archive'.
+2023-03-22 13:01:31 INFO Exclude: The match pattern 'Success - your site is on the way!' is a match for file model5\Laura_2020\Success - your site is on the way!.
+2023-03-22 13:01:37 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 13:01:37 INFO Exclude: The match pattern 'Your site.url' is a match for file model5\Laura_2020\Your site.url.
+2023-03-22 13:01:37 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\Your site.url' has the attribute 'Archive'.
+2023-03-22 13:01:37 INFO Exclude: The match pattern 'Your site.url' is a match for file model5\Laura_2020\Your site.url.
+2023-03-22 13:01:38 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model5\Laura_2020\LC_LowerCalcasieu.p08.hdf"' has exited. Exit code: 0.
+2023-03-22 14:00:46 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model6\Laura_2020\LCGauges.cpg' has the attribute 'Archive'.
+2023-03-22 14:00:46 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model6\Laura_2020\LCGauges.dbf' has the attribute 'Archive'.
+2023-03-22 14:00:46 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model6\Laura_2020\LCGauges.prj' has the attribute 'Archive'.
+2023-03-22 14:00:47 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model6\Laura_2020\LCGauges.shp' has the attribute 'Archive'.
+2023-03-22 14:00:47 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model6\Laura_2020\LCGauges.shx' has the attribute 'Archive'.
+2023-03-22 14:00:47 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model6\Laura_2020\LC_LowerCalcasieu.p08.hdf' has the attribute 'Archive'.
+2023-03-22 14:00:49 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model6\Laura_2020\LC_LowerCalcasieu.p08.hdf' has the attribute 'Archive'.
+2023-03-22 14:00:59 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model6\Laura_2020\OOPS!.txt' has the attribute 'Archive'.
+2023-03-22 14:00:59 INFO Exclude: The match pattern 'OOPS!.txt' is a match for file model6\Laura_2020\OOPS!.txt.
+2023-03-22 14:00:59 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model6\Laura_2020\LCGauges.cpg"' has exited. Exit code: 0.
+2023-03-22 14:01:12 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model6\Laura_2020\OOPS!.txt' has the attribute 'Archive'.
+2023-03-22 14:01:12 INFO Exclude: The match pattern 'OOPS!.txt' is a match for file model6\Laura_2020\OOPS!.txt.
+2023-03-22 14:01:12 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model6\Laura_2020\LCGauges.dbf"' has exited. Exit code: 0.
+2023-03-22 14:01:25 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model6\Laura_2020\OOPS!.txt' has the attribute 'Archive'.
+2023-03-22 14:01:25 INFO Exclude: The match pattern 'OOPS!.txt' is a match for file model6\Laura_2020\OOPS!.txt.
+2023-03-22 14:01:25 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model6\Laura_2020\LCGauges.prj"' has exited. Exit code: 0.
+2023-03-22 14:01:37 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model6\Laura_2020\OOPS!.txt' has the attribute 'Archive'.
+2023-03-22 14:01:37 INFO Exclude: The match pattern 'OOPS!.txt' is a match for file model6\Laura_2020\OOPS!.txt.
+2023-03-22 14:01:38 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model6\Laura_2020\LCGauges.shp"' has exited. Exit code: 0.
+2023-03-22 14:01:50 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model6\Laura_2020\OOPS!.txt' has the attribute 'Archive'.
+2023-03-22 14:01:50 INFO Exclude: The match pattern 'OOPS!.txt' is a match for file model6\Laura_2020\OOPS!.txt.
+2023-03-22 14:01:50 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model6\Laura_2020\LCGauges.shx"' has exited. Exit code: 0.
+2023-03-22 14:02:03 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model6\Laura_2020\OOPS!.txt' has the attribute 'Archive'.
+2023-03-22 14:02:03 INFO Exclude: The match pattern 'OOPS!.txt' is a match for file model6\Laura_2020\OOPS!.txt.
+2023-03-22 14:02:03 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\model6\Laura_2020\LC_LowerCalcasieu.p08.hdf"' has exited. Exit code: 0.
