@@ -1,0 +1,37 @@
+2023-03-22 11:46:06 INFO Creating watch for C:\Users\seanm\Desktop\temp\fw.
+2023-03-22 11:46:06 INFO Watch created for C:\Users\seanm\Desktop\temp\fw.
+2023-03-22 11:46:18 INFO Copied C:\Users\seanm\Desktop\temp\fw\model1\trial1\LCGauges.shp to C:\app\tuneapp-data\log\LCGauges.shp. Verify: True. Keep timestamps: False.
+2023-03-22 11:46:23 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "C:\Users\seanm\Desktop\temp\fw\model1\trial1\LCGauges.shp"' has exited. Exit code: 0.
+2023-03-22 11:46:51 INFO Copied C:\Users\seanm\Desktop\temp\fw\model1\trial1\LCGauges.shp to C:\app\tuneapp-data\log\LCGauges.shp. Verify: True. Keep timestamps: False.
+2023-03-22 11:46:56 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "C:\Users\seanm\Desktop\temp\fw\model1\trial1\LCGauges.shp"' has exited. Exit code: 0.
+2023-03-22 11:59:31 INFO Creating watch for H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models.
+2023-03-22 11:59:31 INFO Watch created for H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models.
+2023-03-22 11:59:40 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\myModel"' has exited. Exit code: 0.
+2023-03-22 11:59:45 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\myModel\Delta_2020"' has exited. Exit code: 0.
+2023-03-22 11:59:50 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\myModel\Delta_2020\gauges_Delta_2020.csv"' has exited. Exit code: 0.
+2023-03-22 11:59:54 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\myModel\Delta_2020\LCGauges.cpg"' has exited. Exit code: 0.
+2023-03-22 11:59:59 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\myModel\Delta_2020\LCGauges.dbf"' has exited. Exit code: 0.
+2023-03-22 12:00:04 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\myModel\Delta_2020\LCGauges.prj"' has exited. Exit code: 0.
+2023-03-22 12:00:10 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\myModel\Delta_2020\LCGauges.shp"' has exited. Exit code: 0.
+2023-03-22 12:00:14 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\myModel\Delta_2020\LCGauges.shx"' has exited. Exit code: 0.
+2023-03-22 12:00:19 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\myModel\Delta_2020\LC_LowerCalcasieu.p03.hdf"' has exited. Exit code: 0.
+2023-03-22 12:00:22 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\myModel\OOPS!.txt"' has exited. Exit code: 0.
+2023-03-22 12:00:25 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\PROGRAM_ERROR.txt"' has exited. Exit code: 0.
+2023-03-22 12:00:27 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\myModel\PROGRAM_ERROR.txt"' has exited. Exit code: 0.
+2023-03-22 12:00:30 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\OOPS!.txt"' has exited. Exit code: 0.
+2023-03-22 12:07:32 INFO Creating watch for H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models.
+2023-03-22 12:07:32 INFO Watch created for H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models.
+2023-03-22 12:11:01 INFO Exclude: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\someModel\Laura_2020\gauges_Laura_2020.csv' has the attribute 'Archive'.
+2023-03-22 12:11:01 INFO Exclude: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\someModel\Laura_2020\LCGauges.cpg' has the attribute 'Archive'.
+2023-03-22 12:11:01 INFO Exclude: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\someModel\Laura_2020\LCGauges.dbf' has the attribute 'Archive'.
+2023-03-22 12:11:01 INFO Exclude: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\someModel\Laura_2020\LCGauges.prj' has the attribute 'Archive'.
+2023-03-22 12:11:01 INFO Exclude: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\someModel\Laura_2020\LCGauges.shp' has the attribute 'Archive'.
+2023-03-22 12:11:01 INFO Exclude: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\someModel\Laura_2020\LCGauges.shx' has the attribute 'Archive'.
+2023-03-22 12:11:01 INFO Exclude: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\someModel\Laura_2020\LC_LowerCalcasieu.p08.hdf' has the attribute 'Archive'.
+2023-03-22 12:11:03 INFO Exclude: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\someModel\Laura_2020\LC_LowerCalcasieu.p08.hdf' has the attribute 'Archive'.
+2023-03-22 12:11:04 INFO Exclude: The match pattern 'OOPS!.txt' is a match for file someModel\OOPS!.txt.
+2023-03-22 12:11:04 INFO Exclude: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\someModel\OOPS!.txt' has the attribute 'Archive'.
+2023-03-22 12:11:04 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\someModel"' has exited. Exit code: 0.
+2023-03-22 12:11:10 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\someModel\Laura_2020"' has exited. Exit code: 0.
+2023-03-22 12:14:35 INFO Creating watch for H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models.
+2023-03-22 12:14:35 INFO Watch created for H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models.
