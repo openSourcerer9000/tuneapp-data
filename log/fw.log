@@ -363,3 +363,26 @@
 2023-03-22 15:47:41 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\mymodel\badmodel\OOPS!.txt' has the attribute 'Archive'.
 2023-03-22 15:47:41 INFO Exclude: The match pattern 'OOPS!.txt' is a match for file mymodel\badmodel\OOPS!.txt.
 2023-03-22 15:47:41 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\mymodel\badmodel\LCGauges.shx"' has exited. Exit code: 0.
+2023-03-24 11:44:26 INFO The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models' does not exists, so the watch was not created.
+2023-03-24 11:50:54 INFO The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models' does not exists, so the watch was not created.
+2023-03-24 11:52:19 INFO Creating watch for H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models.
+2023-03-24 11:52:19 INFO Watch created for H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models.
+2023-03-24 11:52:40 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\mymodel\test\LC_LowerCalcasieu.p08.hdf' has the attribute 'Archive'.
+2023-03-24 11:52:40 INFO Waiting for 0 milliseconds.
+2023-03-24 11:52:40 INFO C:\Py\filewatcherREAL>call "C:\Users\seanm/Anaconda3/Scripts/activate" 
+2023-03-24 11:52:41 INFO (base) C:\Py\filewatcherREAL>call conda activate raz 
+2023-03-24 11:52:41 INFO (raz) C:\Py\filewatcherREAL>call python C:\Users\seanm\Docs\_Lib\Fonk\tuneapp\tuneapp\tuneapp.py "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\mymodel\test\LC_LowerCalcasieu.p08.hdf" 
+2023-03-24 11:52:46 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\mymodel\test\Success - your site is on the way!' has the attribute 'Archive'.
+2023-03-24 11:52:46 INFO Exclude: The match pattern 'Success - your site is on the way!' is a match for file mymodel\test\Success - your site is on the way!.
+2023-03-24 11:52:53 INFO Filter: The path 'H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\mymodel\test\Your site.url' has the attribute 'Archive'.
+2023-03-24 11:52:53 INFO Exclude: The match pattern 'Your site.url' is a match for file mymodel\test\Your site.url.
+2023-03-24 11:52:53 INFO Running tuneapp on H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\mymodel\test\LC_LowerCalcasieu.p08.hdf...
+2023-03-24 11:52:53 INFO WARNING: CRS hardcoded to EPSG:6479. Please verify your model CRS matches this
+2023-03-24 11:52:53 INFO pHDFpath: H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\mymodel\test\LC_LowerCalcasieu.p08.hdf GaugeVec: H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\mymodel\test\LCGauges.shp gaugeDataCSV: H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\mymodel\test\test.csv
+2023-03-24 11:52:53 INFO Converted to C:\app\tuneapp-data\Models\mymodel\test\Gauges-test.geojson
+2023-03-24 11:52:53 INFO Bounced gauges vector to C:\app\tuneapp-data\Models\mymodel\test\Gauges-test.geojson
+2023-03-24 11:52:53 INFO Bounced all gauge timeseries to C:\app\tuneapp-data\Models\mymodel\test\ts_*.json
+2023-03-24 11:52:53 INFO Successfully added mymodel/test.
+2023-03-24 11:52:53 INFO The results should be available in the webapp in a minute.
+2023-03-24 11:52:53 INFO If you are overriding a previous version with the same model/trial, you may need to clear the pages cache in Chrome, or try another browser.
+2023-03-24 11:52:53 INFO The execution 'C:\app\tuneapp-runner\autotune.bat "H:\2202134.00C_LWI_Region4\Technical\CalibrationTool\Models\mymodel\test\LC_LowerCalcasieu.p08.hdf"' has exited. Exit code: 0.
