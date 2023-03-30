@@ -1,1 +1,1 @@
-{"attrz": {"corr": 0.81, "MAE": 1.04, "RMSE": 1.13, "NSE": 0.58}}
+{"attrz": {"Trial": "Harvey_2017", "Mean FID": 39.1, "Mean corr": 0.77, "Mean MAE": 1.05, "Mean RMSE": 1.14, "Mean NSE": 0.73, "% corr target met": 50.0, "% MAE target met": 56.0, "% RMSE target met": 54.0, "% NSE target met": 85.0}}

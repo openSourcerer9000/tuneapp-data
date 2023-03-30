@@ -1,1 +1,1 @@
-{"attrz": {"corr": 0.6, "MAE": 1.03, "RMSE": 1.1, "NSE": 0.33}}
+{"attrz": {"Trial": "Delta_2020", "Mean FID": 33.04, "Mean corr": 0.66, "Mean MAE": 0.89, "Mean RMSE": 0.96, "Mean NSE": 0.48, "% corr target met": 45.0, "% MAE target met": 56.0, "% RMSE target met": 56.0, "% NSE target met": 84.0}}

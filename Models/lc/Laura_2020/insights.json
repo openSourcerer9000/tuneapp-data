@@ -1,1 +1,1 @@
-{"attrz": {"corr": 0.67, "MAE": 1.34, "RMSE": 1.47, "NSE": -0.74}}
+{"attrz": {"Trial": "Laura_2020", "Mean FID": 34.87, "Mean corr": 0.67, "Mean MAE": 1.31, "Mean RMSE": 1.44, "Mean NSE": -0.6, "% corr target met": 26.0, "% MAE target met": 42.0, "% RMSE target met": 37.0, "% NSE target met": 75.0}}

@@ -1,1 +1,1 @@
-{"attrz": {"corr": 0.62, "MAE": 0.92, "RMSE": 1.01, "NSE": -15.77}}
+{"attrz": {"Trial": "January_2013", "Mean FID": 49.69, "Mean corr": 0.62, "Mean MAE": 0.92, "Mean RMSE": 1.0, "Mean NSE": -15.79, "% corr target met": 34.0, "% MAE target met": 53.0, "% RMSE target met": 53.0, "% NSE target met": 15.0}}
