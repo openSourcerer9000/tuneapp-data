@@ -1,0 +1,1 @@
+{"x": ["2018-03-28 00:00:00", "2018-03-28 01:00:05"], "data": [{"name": "Observed Stage", "y": [31.25, 31.25]}, {"name": "Simulated Stage", "y": [2.5418457542473467, 2.54226486305644]}], "layout": {"xaxis": {"title": {"text": "Time"}}, "yaxis": {"title": {"text": "WSEL"}}}, "attrz": {"Gauge": "OneRain 12030", "FID": 19, "corr": null, "MAE": 28.71, "RMSE": 28.71, "NSE": -0.19}}
