@@ -1,1 +1,1 @@
-{"attrz": {"Trial": "March 2018", "Mean FID": 15.77, "Mean corr": 0.59, "Mean MAE": 4.72, "Mean RMSE": 4.85, "Mean NSE": 0.76, "% corr target met": 9.0, "% MAE target met": 16.0, "% RMSE target met": 12.0, "% NSE target met": 64.0}}
+{"attrz": {"Trial": "March 2018", "Mean FID": 15.82, "Mean corr": 0.59, "Mean MAE": 3.67, "Mean RMSE": 3.8, "Mean NSE": 0.79, "% corr target met": 13.0, "% MAE target met": 22.0, "% RMSE target met": 18.0, "% NSE target met": 90.0}}
