@@ -7,7 +7,7 @@
 { "type": "Feature", "properties": { "Gauge": "OneRain 12036", "corr": 0.98, "MAE": 0.2, "RMSE": 0.38 }, "geometry": { "type": "Point", "coordinates": [ -93.237549921732153, 30.176298057028948, 7.99998399999702 ] } },
 { "type": "Feature", "properties": { "Gauge": "OneRain 12067", "corr": 0.99, "MAE": 0.35, "RMSE": 0.41 }, "geometry": { "type": "Point", "coordinates": [ -93.214202824406755, 30.160797530775607, 4.202091333310951 ] } },
 { "type": "Feature", "properties": { "Gauge": "OneRain 12130 DS", "corr": 0.75, "MAE": 0.1, "RMSE": 0.69 }, "geometry": { "type": "Point", "coordinates": [ -93.19844557429505, 30.257019778216204, 0.0 ] } },
-{ "type": "Feature", "properties": { "Gauge": "OneRain 12130 US", "corr": 0.19, "MAE": 0.99, "RMSE": 1.39 }, "geometry": { "type": "Point", "coordinates": [ -93.198356722018772, 30.257004040963945, 0.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12130 US", "corr": 0.19, "MAE": 0.99, "RMSE": 1.39 }, "geometry": { "type": "Point", "coordinates": [ -93.198343247492119, 30.257018755993691, 0.0 ] } },
 { "type": "Feature", "properties": { "Gauge": "NOAA 8767816", "corr": 1.0, "MAE": 0.01, "RMSE": 0.05 }, "geometry": { "type": "Point", "coordinates": [ -93.22158670152551, 30.223718483166177, 0.0 ] } }
 ]
 }
