@@ -1,0 +1,29 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FID": 0, "Gauge": "USGS 8013000" }, "geometry": { "type": "Point", "coordinates": [ -93.19148617504392, 31.335332599785943, 0.0 ] } },
+{ "type": "Feature", "properties": { "FID": 2, "Gauge": "USGS 8017044" }, "geometry": { "type": "Point", "coordinates": [ -93.247170630150137, 30.23771962612793, 0.0 ] } },
+{ "type": "Feature", "properties": { "FID": 3, "Gauge": "USGS 8013500" }, "geometry": { "type": "Point", "coordinates": [ -92.915390507210262, 30.502524250062727, 0.0 ] } },
+{ "type": "Feature", "properties": { "FID": 3, "Gauge": "OneRain 12005" }, "geometry": { "type": "Point", "coordinates": [ -93.166843445001135, 30.198317373083267, 9.0 ] } },
+{ "type": "Feature", "properties": { "FID": 7, "Gauge": "OneRain 12084" }, "geometry": { "type": "Point", "coordinates": [ -93.038716217893523, 30.218187245207215, 16.0 ] } },
+{ "type": "Feature", "properties": { "FID": 5, "Gauge": "OneRain 12069" }, "geometry": { "type": "Point", "coordinates": [ -93.174550603612801, 30.227460795253307, 7.0 ] } },
+{ "type": "Feature", "properties": { "FID": 6, "Gauge": "OneRain 12011" }, "geometry": { "type": "Point", "coordinates": [ -93.080980465597833, 30.240677087013019, 13.0 ] } },
+{ "type": "Feature", "properties": { "FID": 10, "Gauge": "OneRain 12083" }, "geometry": { "type": "Point", "coordinates": [ -93.068111, 30.236693999999488, 12.0 ] } },
+{ "type": "Feature", "properties": { "FID": 13, "Gauge": "OneRain 12082" }, "geometry": { "type": "Point", "coordinates": [ -93.12957495084845, 30.248589241649373, 16.0 ] } },
+{ "type": "Feature", "properties": { "FID": 14, "Gauge": "OneRain 12006" }, "geometry": { "type": "Point", "coordinates": [ -93.122088583001116, 30.261420298375402, 9.0 ] } },
+{ "type": "Feature", "properties": { "FID": 15, "Gauge": "OneRain 12037" }, "geometry": { "type": "Point", "coordinates": [ -93.172275622732883, 30.263827303232588, 17.0 ] } },
+{ "type": "Feature", "properties": { "FID": 11, "Gauge": "OneRain 12081" }, "geometry": { "type": "Point", "coordinates": [ -93.081464941836373, 30.277908550403833, 16.0 ] } },
+{ "type": "Feature", "properties": { "FID": 12, "Gauge": "OneRain 12015" }, "geometry": { "type": "Point", "coordinates": [ -93.09552395028318, 30.290627197060939, 12.0 ] } },
+{ "type": "Feature", "properties": { "FID": 13, "Gauge": "OneRain 12080" }, "geometry": { "type": "Point", "coordinates": [ -93.058483167499034, 30.287309156891332, 15.0 ] } },
+{ "type": "Feature", "properties": { "FID": 19, "Gauge": "OneRain 12030" }, "geometry": { "type": "Point", "coordinates": [ -93.118169856010894, 30.297126452383232, 9.0 ] } },
+{ "type": "Feature", "properties": { "FID": 21, "Gauge": "OneRain 12014" }, "geometry": { "type": "Point", "coordinates": [ -93.065606109816926, 30.308330349984438, 13.0 ] } },
+{ "type": "Feature", "properties": { "FID": 16, "Gauge": "OneRain 12016" }, "geometry": { "type": "Point", "coordinates": [ -93.170111720531878, 30.329002937496373, 26.0 ] } },
+{ "type": "Feature", "properties": { "FID": 23, "Gauge": "OneRain 12079" }, "geometry": { "type": "Point", "coordinates": [ -93.071762634712073, 30.330275845960102, 10.0 ] } },
+{ "type": "Feature", "properties": { "FID": 18, "Gauge": "OneRain 12018" }, "geometry": { "type": "Point", "coordinates": [ -93.152030348775654, 30.398313704927808, 19.0 ] } },
+{ "type": "Feature", "properties": { "FID": 19, "Gauge": "OneRain 12077" }, "geometry": { "type": "Point", "coordinates": [ -93.205075956845931, 30.300453717772715, 15.0 ] } },
+{ "type": "Feature", "properties": { "FID": 27, "Gauge": "OneRain 12078" }, "geometry": { "type": "Point", "coordinates": [ -93.178842802240112, 30.302560294599495, 7.0 ] } },
+{ "type": "Feature", "properties": { "FID": 21, "Gauge": "OneRain 12068" }, "geometry": { "type": "Point", "coordinates": [ -93.168379464540749, 30.176700322739432, 13.0 ] } },
+{ "type": "Feature", "properties": { "FID": 31, "Gauge": "OneRain 12070" }, "geometry": { "type": "Point", "coordinates": [ -93.251294065010129, 30.262972592830003, 5.0 ] } }
+]
+}
