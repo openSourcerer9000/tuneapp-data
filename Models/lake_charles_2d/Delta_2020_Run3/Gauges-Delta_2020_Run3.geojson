@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12034", "corr": 0.99, "MAE": 0.04, "RMSE": 0.06 }, "geometry": { "type": "Point", "coordinates": [ -93.240801577229576, 30.205776599196991, 2.999993999980978 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12036", "corr": 0.97, "MAE": 0.31, "RMSE": 0.69 }, "geometry": { "type": "Point", "coordinates": [ -93.237549921736971, 30.176298057034181, 7.99998399999702 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12067", "corr": 0.91, "MAE": 0.89, "RMSE": 1.14 }, "geometry": { "type": "Point", "coordinates": [ -93.21455467248083, 30.160626004069609, 4.202091333310951 ] } },
+{ "type": "Feature", "properties": { "Gauge": "NOAA 8767816", "corr": 1.0, "MAE": 0.03, "RMSE": 0.05 }, "geometry": { "type": "Point", "coordinates": [ -93.221586701530285, 30.223718483171449, 0.0 ] } }
+]
+}
