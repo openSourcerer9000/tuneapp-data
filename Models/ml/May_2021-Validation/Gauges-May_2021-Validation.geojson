@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Gauge": "UCalcRi", "corr": 0.73, "MAE": 0.76, "RMSE": 0.91 }, "geometry": { "type": "Point", "coordinates": [ -93.244054415811377, 30.218972581585106 ] } },
+{ "type": "Feature", "properties": { "Gauge": "SabineLake", "corr": 0.82, "MAE": 0.54, "RMSE": 0.66 }, "geometry": { "type": "Point", "coordinates": [ -93.929908134149372, 29.868785775437882 ] } },
+{ "type": "Feature", "properties": { "Gauge": "SabineRivS", "corr": 0.73, "MAE": 0.98, "RMSE": 1.18 }, "geometry": { "type": "Point", "coordinates": [ -93.724248719691275, 30.096534845254972 ] } },
+{ "type": "Feature", "properties": { "Gauge": "SabineRivN", "corr": 0.7, "MAE": 1.6, "RMSE": 1.99 }, "geometry": { "type": "Point", "coordinates": [ -93.701582875208871, 30.127765791244858 ] } }
+]
+}
