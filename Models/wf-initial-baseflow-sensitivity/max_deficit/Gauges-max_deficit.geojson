@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12003" }, "geometry": { "type": "Point", "coordinates": [ -93.214432859680613, 30.32640131774366, 25.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12004" }, "geometry": { "type": "Point", "coordinates": [ -93.254559243780207, 30.339765179409575, 14.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12007" }, "geometry": { "type": "Point", "coordinates": [ -93.331629671519963, 30.32839888611257, 12.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12008" }, "geometry": { "type": "Point", "coordinates": [ -93.42027861143562, 30.442922055094684, 54.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12017" }, "geometry": { "type": "Point", "coordinates": [ -93.198135646431624, 30.373635232553916, 24.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12019" }, "geometry": { "type": "Point", "coordinates": [ -93.427139670204298, 30.456411976710285, 55.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12020" }, "geometry": { "type": "Point", "coordinates": [ -93.458015751132251, 30.475279233744054, 84.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12029" }, "geometry": { "type": "Point", "coordinates": [ -93.31480670258, 30.291262077715608, 13.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12031" }, "geometry": { "type": "Point", "coordinates": [ -93.200536326694788, 30.35462337788633, 22.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12039" }, "geometry": { "type": "Point", "coordinates": [ -93.629625140211203, 30.333543669487376, 34.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12046" }, "geometry": { "type": "Point", "coordinates": [ -93.453110795597794, 30.356757647179371, 25.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12048" }, "geometry": { "type": "Point", "coordinates": [ -93.424479409856147, 30.423192914703098, 47.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12049" }, "geometry": { "type": "Point", "coordinates": [ -93.418316884637008, 30.437121425966453, 52.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12050" }, "geometry": { "type": "Point", "coordinates": [ -93.428916494894722, 30.441672239075931, 53.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12071" }, "geometry": { "type": "Point", "coordinates": [ -93.28586213205854, 30.341747176838091, 12.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12072" }, "geometry": { "type": "Point", "coordinates": [ -93.249116047681909, 30.388555154518883, 27.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12074" }, "geometry": { "type": "Point", "coordinates": [ -93.211601956238809, 30.344774711814718, 21.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12075" }, "geometry": { "type": "Point", "coordinates": [ -93.232949757398245, 30.322845351151258, 21.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12076" }, "geometry": { "type": "Point", "coordinates": [ -93.219373283567151, 30.315349558954463, 23.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12087" }, "geometry": { "type": "Point", "coordinates": [ -93.293910083838284, 30.34861938474689, 0.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12094" }, "geometry": { "type": "Point", "coordinates": [ -93.249947163069635, 30.299273208973496, 0.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12105" }, "geometry": { "type": "Point", "coordinates": [ -93.181224331360198, 30.368263406942578, 0.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12106" }, "geometry": { "type": "Point", "coordinates": [ -93.367670436004374, 30.394947837478167, 0.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12107" }, "geometry": { "type": "Point", "coordinates": [ -93.38209989303509, 30.393170537433402, 0.0 ] } }
+]
+}
