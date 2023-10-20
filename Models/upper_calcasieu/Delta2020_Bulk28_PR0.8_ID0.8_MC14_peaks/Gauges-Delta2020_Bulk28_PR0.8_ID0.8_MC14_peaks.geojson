@@ -5,7 +5,6 @@
 { "type": "Feature", "properties": { "Gauge": "OneRain 12005", "FID": 3, "corr": 0.95, "MAE": 1.9, "RMSE": 2.24 }, "geometry": { "type": "Point", "coordinates": [ -93.166843445001135, 30.198317373083267, 9.0 ] } },
 { "type": "Feature", "properties": { "Gauge": "OneRain 12084", "FID": 7, "corr": 0.94, "MAE": 0.86, "RMSE": 1.22 }, "geometry": { "type": "Point", "coordinates": [ -93.038716217893523, 30.218187245207215, 16.0 ] } },
 { "type": "Feature", "properties": { "Gauge": "OneRain 12069", "FID": 5, "corr": 0.95, "MAE": 1.62, "RMSE": 2.0 }, "geometry": { "type": "Point", "coordinates": [ -93.174550603612801, 30.227460795253307, 7.0 ] } },
-{ "type": "Feature", "properties": { "Gauge": "OneRain 12011", "FID": 6, "corr": 0.98, "MAE": 0.88, "RMSE": 0.98 }, "geometry": { "type": "Point", "coordinates": [ -93.080980465597833, 30.240677087013019, 13.0 ] } },
 { "type": "Feature", "properties": { "Gauge": "OneRain 12083", "FID": 10, "corr": 0.96, "MAE": 1.37, "RMSE": 1.68 }, "geometry": { "type": "Point", "coordinates": [ -93.068111, 30.236693999999488, 12.0 ] } },
 { "type": "Feature", "properties": { "Gauge": "OneRain 12082", "FID": 13, "corr": 0.97, "MAE": 0.36, "RMSE": 0.41 }, "geometry": { "type": "Point", "coordinates": [ -93.12957495084845, 30.248589241649373, 16.0 ] } },
 { "type": "Feature", "properties": { "Gauge": "OneRain 12006", "FID": 14, "corr": 0.95, "MAE": 0.68, "RMSE": 0.74 }, "geometry": { "type": "Point", "coordinates": [ -93.122088583001116, 30.261420298375402, 9.0 ] } },
@@ -19,6 +18,9 @@
 { "type": "Feature", "properties": { "Gauge": "OneRain 12079", "FID": 23, "corr": 0.98, "MAE": 1.02, "RMSE": 1.18 }, "geometry": { "type": "Point", "coordinates": [ -93.071762634712073, 30.330275845960102, 10.0 ] } },
 { "type": "Feature", "properties": { "Gauge": "OneRain 12018", "FID": 18, "corr": 0.89, "MAE": 1.29, "RMSE": 1.53 }, "geometry": { "type": "Point", "coordinates": [ -93.152030348775654, 30.398313704927808, 19.0 ] } },
 { "type": "Feature", "properties": { "Gauge": "OneRain 12077", "FID": 19, "corr": 0.93, "MAE": 1.06, "RMSE": 1.29 }, "geometry": { "type": "Point", "coordinates": [ -93.205030366465195, 30.300475749732424, 15.0 ] } },
-{ "type": "Feature", "properties": { "Gauge": "OneRain 12070", "FID": 31, "corr": 0.74, "MAE": 1.15, "RMSE": 1.2 }, "geometry": { "type": "Point", "coordinates": [ -93.251294065010129, 30.262972592830003, 5.0 ] } }
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12134", "FID": 25, "corr": 0.95, "MAE": 0.67, "RMSE": 0.79 }, "geometry": { "type": "Point", "coordinates": [ -93.151, 30.306092569999464, 0.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12096", "FID": 27, "corr": 0.93, "MAE": 0.61, "RMSE": 0.85 }, "geometry": { "type": "Point", "coordinates": [ -93.125631489855166, 30.351923170632855, 0.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12012", "FID": 28, "corr": 0.89, "MAE": 1.51, "RMSE": 1.89 }, "geometry": { "type": "Point", "coordinates": [ -93.118614647309826, 30.19795686560391, 14.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12010", "FID": 29, "corr": 0.98, "MAE": 0.52, "RMSE": 0.88 }, "geometry": { "type": "Point", "coordinates": [ -93.019302520347921, 30.241156667025603, 18.0 ] } }
 ]
 }
