@@ -5,7 +5,6 @@
 { "type": "Feature", "properties": { "Gauge": "OneRain 12028", "corr": 0.87, "MAE": 1.85, "RMSE": 2.02 }, "geometry": { "type": "Point", "coordinates": [ -93.128931318537468, 30.1522526034755, 14.0 ] } },
 { "type": "Feature", "properties": { "Gauge": "OneRain 12063", "corr": 0.94, "MAE": 0.62, "RMSE": 0.7 }, "geometry": { "type": "Point", "coordinates": [ -93.210314312554644, 30.124801622521424, 9.0 ] } },
 { "type": "Feature", "properties": { "Gauge": "OneRain 12064", "corr": 0.93, "MAE": 0.5, "RMSE": 0.61 }, "geometry": { "type": "Point", "coordinates": [ -93.163181072381406, 30.125379912903078, 7.0 ] } },
-{ "type": "Feature", "properties": { "Gauge": "OneRain 12065", "corr": 0.95, "MAE": 1.4, "RMSE": 1.49 }, "geometry": { "type": "Point", "coordinates": [ -93.156557911721762, 30.139971310003972, 10.0 ] } },
-{ "type": "Feature", "properties": { "Gauge": "OneRain 12066", "corr": 0.7, "MAE": 1.98, "RMSE": 2.43 }, "geometry": { "type": "Point", "coordinates": [ -93.164033160613926, 30.143684763138697, 11.0 ] } }
+{ "type": "Feature", "properties": { "Gauge": "OneRain 12065", "corr": 0.95, "MAE": 1.4, "RMSE": 1.49 }, "geometry": { "type": "Point", "coordinates": [ -93.156557911721762, 30.139971310003972, 10.0 ] } }
 ]
 }
