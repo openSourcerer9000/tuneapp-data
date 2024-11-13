@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Gauge": "12026", "SITE_ID": "12026", "SITENAME": "W-4 @ Nelson Road", "corr": 0.96, "MAE": 0.81, "RMSE": 0.97 }, "geometry": { "type": "Point", "coordinates": [ -93.249240314776955, 30.143325906921326, 9.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "12027", "SITE_ID": "12027", "SITENAME": "W-4 @ Elliot Road", "corr": 0.92, "MAE": 0.5, "RMSE": 0.69 }, "geometry": { "type": "Point", "coordinates": [ -93.265970659705914, 30.123992245436774, 5.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "12062", "SITE_ID": "12062", "SITENAME": "W-5 @ Big Lake Road", "corr": 0.32, "MAE": 1.71, "RMSE": 2.44 }, "geometry": { "type": "Point", "coordinates": [ -93.282898522931205, 30.132742146836087, 5.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "12085", "SITE_ID": "12085", "SITENAME": "Calcasieu River @ Calcasieu Point", "corr": null, "MAE": null, "RMSE": null }, "geometry": { "type": "Point", "coordinates": [ -93.307452867846251, 30.104038850642631, 0.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "12121", "SITE_ID": "12121", "SITENAME": "Henderson Bayou @ Devon Lane", "corr": 0.98, "MAE": 0.52, "RMSE": 0.55 }, "geometry": { "type": "Point", "coordinates": [ -93.270571016870463, 30.177894573488601, 0.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "12123", "SITE_ID": "12123", "SITENAME": "Henderson Bayou @ W Prien Lake Road", "corr": 0.89, "MAE": 0.52, "RMSE": 0.63 }, "geometry": { "type": "Point", "coordinates": [ -93.274775174093534, 30.169402075464347, 0.0 ] } },
+{ "type": "Feature", "properties": { "Gauge": "12141", "SITE_ID": "12141", "SITENAME": "Prien Lake @ Prien Lake Park", "corr": null, "MAE": null, "RMSE": null }, "geometry": { "type": "Point", "coordinates": [ -93.270747085275048, 30.188607501216215, 0.0 ] } }
+]
+}
